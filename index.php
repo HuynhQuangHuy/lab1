@@ -4,7 +4,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Huyshop</title>
-	<link rel="stylesheet" href="css/style.css" type="text/css" charset="utf-8" />	
+	<link rel="stylesheet" href="style.css" type="text/css" charset="utf-8" />	
 </head>
 
 <body>
@@ -22,24 +22,24 @@
 				<a href="index.html" id="logo"></a> <!-- /#logo -->
 				<ul id="navigation">
 					<li class="selected"><a href="index.html">Home</a></li>
-					<li><a href="login.html">LOGIN</a></li>
-					<li><a href="register.html">REGISTER</a></li>
-					<li><a href="shop.html">Shop</a></li>
-					<li><a href="mailus.html">Contact Us</a></li>
+					<li><a href="login.php">LOGIN</a></li>
+					<li><a href="register.php">REGISTER</a></li>
+					<li><a href="shop.php">Shop</a></li>
+					<li><a href="mailus.php">Contact Us</a></li>
 				</ul>
 			</div> <!-- /#header -->
 			<div id="contents">
 				<div id="main">
 					<div id="adbox">
-						<img src="images/sale.jpg" alt="Img" />
+						<img src="sale.jpg" alt="Img" />
 					</div>
 				</div>
 				<div id="featured">
 					<ul>
-						<li><img src="images/shirt-red.jpg" alt="shirt" /></li>
-						<li><img src="images/shirt-orange.jpg" alt="shirt" /></li>
-						<li><img src="images/shirt-green.jpg" alt="shirt" /></li>
-						<li class="last"><img src="images/shirt-blue.jpg" alt="shirt" /></li>
+						<li><img src="shirt-red.jpg" alt="shirt" /></li>
+						<li><img src="shirt-orange.jpg" alt="shirt" /></li>
+						<li><img src="shirt-green.jpg" alt="shirt" /></li>
+						<li class="last"><img src="shirt-blue.jpg" alt="shirt" /></li>
 					</ul>
 					<a href="shop.html" class="button">shop here!</a> 
 				</div>
@@ -47,19 +47,19 @@
 			<div id="footer">
 				<div id="description">
 					<div>
-						<a href="index.html" class="logo"></a>
-						<span>&copy; Copyright &copy; 2011. <a href="index.html">Company name</a> All rights reserved</span>
+                                            <a href="index.php" class="logo"></a>
+                                            <span>&copy; Copyright &copy; 2011. <a href="index.php">Company name</a> All rights reserved</span>
 					</div>
 					<p>
 						Our company specializes in providing summer T-shirts. You can find your favorite shirt with different colors 
 					</p>
 				</div>
 				<div class="navigation">
-					<a href="index.html">Home</a>|
-					<a href="login.html">LOGINT</a>|
-					<a href="register.html">REGISTER</a>|
-					<a href="shop.html">Shop</a>|
-					<a href="mailus.html">Contact Us</a>
+                                    <a href="index.php">Home</a>|
+                                    <a href="login.php">LOGINT</a>|
+                                    <a href="register.php">REGISTER</a>|
+                                    <a href="shop.php">Shop</a>|
+					<a href="mailus.php">Contact Us</a>
 				</div>
 			</div> <!-- /#footer -->
 		</div> <!-- /#page -->
