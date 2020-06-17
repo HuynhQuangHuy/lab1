@@ -31,7 +31,7 @@
 			<div id="contents">
 				<div id="main">
 					<div id="adbox">
-						<img src="sale.jpg" alt="Img" />
+                                            <img src="sale.jpg" alt="Img" />
 					</div>
 				</div>
 				<div id="featured">
