@@ -64,6 +64,6 @@
 			</div> <!-- /#footer -->
 		</div> <!-- /#page -->
 	</div> <!-- /#background -->
-        <a href="ConnectToDB.php" ket noi CSDL<a>
+        <a href="ConnectToDB.php"> ket noi CSDL </a>
 </body>
 </html>
