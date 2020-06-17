@@ -56,7 +56,7 @@
 				</div>
 				<div class="navigation">
                                     <a href="index.php">Home</a>|
-                                    <a href="login.php">LOGINT</a>|
+                                    <a href="ConnectToDB.php">ket noi CSDL</a>|
                                     <a href="register.php">REGISTER</a>|
                                     <a href="shop.php">Shop</a>|
 					<a href="mailus.php">Contact Us</a>
