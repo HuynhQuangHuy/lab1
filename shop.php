@@ -21,11 +21,11 @@
 				</span>
 				<a href="index.html" id="logo"></a> <!-- /#logo -->
 				<ul id="navigation">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="login.html">LOGIN</a></li>
-					<li><a href="register.html">REGISTER</a></li>
-					<li class="selected"><a href="shop.html">Shop</a></li>
-					<li><a href="mailus.html">Contact Us</a></li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="login.php">LOGIN</a></li>
+                                    <li><a href="register.php">REGISTER</a></li>
+                                    <li class="selected"><a href="shop.php">Shop</a></li>
+					<li><a href="mailus.php">Contact Us</a></li>
 				</ul>
 			</div> <!-- /#header -->
 			<div id="contents">
@@ -78,19 +78,19 @@
 			<div id="footer">
 				<div id="description">
 					<div>
-						<a href="index.html" class="logo"></a>
-						<span>&copy; Copyright &copy; 2011. <a href="index1.html">Company name</a> All rights reserved</span>
+                                            <a href="index.php" class="logo"></a>
+						<span>&copy; Copyright &copy; 2011. <a href="index1.php">Company name</a> All rights reserved</span>
 					</div>
 					<p>
 						Our company specializes in providing summer T-shirts. You can find your favorite shirt with different colors 
 					</p>
 				</div>
 				<div class="navigation">
-					<a href="index.html">Home</a>|
-					<a href="login.html">LOGIN</a>|
-					<a href="register.html">REGISTER</a>|
-					<a href="shop.html">Shop</a>|
-					<a href="mailus.html">Contact Us</a>
+                                    <a href="index.php">Home</a>|
+					<a href="login.php">LOGIN</a>|
+                                        <a href="register.php">REGISTER</a>|
+					<a href="shop.php">Shop</a>|
+					<a href="mailus.php">Contact Us</a>
 				</div>
 			</div> <!-- /#footer -->
 		</div> <!-- /#page -->
