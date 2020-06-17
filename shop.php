@@ -88,9 +88,9 @@
 				<div class="navigation">
                                     <a href="index.php">Home</a>|
                                     <a href="ConnectToDB.php">ket noi CSDL</a>|
-                                        <a href="register.php">REGISTER</a>|
-					<a href="shop.php">Shop</a>|
-					<a href="mailus.php">Contact Us</a>
+                                    <a href="DeleteData.php">xoa CSDL</a>|
+                                    <a href="InsertData.php">them CSDL</a>|
+                                    <a href="UpdateData.php">cap nhap CSDL</a>
 				</div>
 			</div> <!-- /#footer -->
 		</div> <!-- /#page -->
